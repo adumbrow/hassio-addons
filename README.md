@@ -3,7 +3,7 @@ Repository of custom addons for hass.io
 
 ## Inadyn
 
-[![Run Status](https://api.shippable.com/projects/59cb35f736154a0700974089/badge?branch=master)](https://app.shippable.com/github/nalipaz/hassio-addons)
+I forked this from https://app.shippable.com/github/nalipaz/hassio-addons to attempt running it on arm7
 
 ### About
 
